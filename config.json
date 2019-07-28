@@ -1,0 +1,13 @@
+{
+  "host": "ftp.dlptest.com",
+  "port": 21,
+  "username": "dlpuser@dlptest.com",
+  "password": "fLDScD4Ynth0p4OJ6bW6qCxjh",
+  "files":
+  {
+    "files/1.txt": "/",
+    "files/2.txt": "/",
+    "files/3.txt": "/",
+    "files/4.txt": "/"
+  }
+}
